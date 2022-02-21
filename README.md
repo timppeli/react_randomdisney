@@ -11,4 +11,4 @@
 1. VSCode
 2. React
 3. [Disneyapi](https://disneyapi.dev/)
-4. Procrastination and~~/or~~ poor time management skills
+4. Procrastination and/or poor time management skills
