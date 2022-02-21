@@ -5,8 +5,10 @@
 - API: some entries missing > sometimes you have to reroll to get a new character
 - no error messages for the grievances mentioned above
 - nor real error handling in general
+- great big plans for a search by name function, very little success in implementing it in time (see: Resources #4)
 
 ## Resources
-- VSCode
-- React
-- [Disneyapi](https://disneyapi.dev/)
+1. VSCode
+2. React
+3. [Disneyapi](https://disneyapi.dev/)
+4. Procrastination and~~/or~~ poor time management skills
